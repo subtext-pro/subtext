@@ -1,4 +1,4 @@
-<img alt="Subtext" src="[https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png)" width="400" />
+[![Image from Gyazo](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png)](https://gyazo.com/3f6879b1ae585392c12e9c8b599a18e9)
 
 ## Visual Studio Code
 
