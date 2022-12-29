@@ -1,0 +1,118 @@
+:root { 
+  --black: #000000;
+  --dodger-blue: #1788f7;
+  --lima: #72d725;
+  --magenta--fuchsia: #e31bff;
+  --orchid: #d771e5;
+  --scarpa-flow: #565462;
+  --scooter: #2bc3ff;
+  --spring-frost: #7de92f;
+  --star-dust: #9c9c9c;
+  --steel-gray: #252435;
+  --white: #ffffff;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-xl: 26px;
+  --font-size-xxl: 28px;
+  --font-size-xxxl: 48px;
+  --font-size-xxxxl: 60px;
+ 
+  --font-family-ibm_plex_mono: "IBM Plex Mono", Helvetica;
+  --font-family-space_grotesk: "Space Grotesk", Helvetica;
+}
+.ibmplexmono-medium-scarpa-flow-18px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ibmplexmono-semi-bold-scarpa-flow-18px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-bold-steel-gray-48px {
+  color: var(--steel-gray);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexmono-semi-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.ibmplexmono-semi-bold-scarpa-flow-22px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacegrotesk-bold-steel-gray-60px {
+  color: var(--steel-gray);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexmono-medium-scarpa-flow-26px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.spacegrotesk-bold-dodger-blue-28px {
+  color: var(--dodger-blue);
+  font-family: var(--font-family-space_grotesk);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexmono-normal-scarpa-flow-18px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ibmplexmono-bold-scooter-28px {
+  color: var(--scooter);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ibmplexmono-medium-scarpa-flow-22px {
+  color: var(--scarpa-flow);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ibmplexmono-semi-bold-star-dust-18px {
+  color: var(--star-dust);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
