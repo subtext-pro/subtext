@@ -58,7 +58,7 @@ const benjamindean325LandingPageData = {
     spanText26: "Berlin",
     spanText27: "Zurich",
     spanText28: "San Francisco",
-    spanText29: "Santa Barbara,
+    spanText29: "Santa Barbara",
     group27: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/9b99d5f7041aef55-1-1@2x.png",
     be65307B6F17Cb231: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/be65307b6f17cb23-1-1@2x.png",
     group9Props: group92Data,

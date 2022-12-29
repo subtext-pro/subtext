@@ -27134,8 +27134,8 @@ const group92Data = {
     className: "group-10"
 };
 const benjamindean325LandingPageData = {
-    spanText1: "Pro codes for software startups",
-    spanText2: "BEAUTIFUL FUNCTIONALITY FOR PROFESSIONAL DEVELOPERS",
+    spanText1: "Beautiful and Professional Fonts for Focusing",
+    spanText2: "Maximize Pogramming Productivity With Fonts Designed By Top Artists",
     group1000006057: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/line-3-1@2x.png",
     frame: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/frame-1@2x.png",
     spanText3: "About ProTech",
@@ -27171,13 +27171,13 @@ const benjamindean325LandingPageData = {
         columnNumber: 16
     }, undefined),
     spanText8: "and functional colors",
-    spanText9: "The original Subtext colors had been created in 2006 by creative director & developer Wimer Hazenberg. Soon after, the code editor Sublime Text adopted Monokai as its default color scheme. Monokai is internationally used for syntax highlighting in almost every editor",
+    spanText9: "The original Subtext colors had been created in 2020 by creative director & developer Hans Zimmer. Soon after, the code editor Sublime Text adopted Monokai as its default color scheme. Monokai is internationally used for syntax highlighting in almost every editor",
     spanText10: "The pro version, created by the same author, is a modern interpretation of the classic color palette. The updated colors are carefully calibrated to be both functional and aesthetically pleasing.",
     group1: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-1@2x.png",
     spanText11: "Color filters",
     spanText12: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
         children: [
-            "Monokai Pro comes with a set of color filters ",
+            "Subtext Pro comes with a set of color filters ",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
                 lineNumber: 38,
@@ -27193,18 +27193,18 @@ const benjamindean325LandingPageData = {
     line3: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/line-3-2@2x.png",
     pixelparrotclearbg11: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/pixelparrotclearbg-1-1@2x.png",
     spanText13: "A color scheme for focusing",
-    spanText14: "Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
-    spanText15: "Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
+    spanText14: "Subtext Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
+    spanText15: "Subbtext Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
     pixelparrotclearbg12: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/pixelparrotclearbg-1-2@2x.png",
     spanText16: "\xa9 2022 Subtext Pro. ALL RIGHTS RESERVED",
     spanText17: "How to install free evaluation for VS Code:",
     spanText18: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
         children: [
-            "1. Package Control ‣ Install Package ‣ Theme - Monokai Pro",
+            "1. Package Control ‣ Install Package ‣ Theme -Subtext Pro",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
                 lineNumber: 47,
-                columnNumber: 91
+                columnNumber: 90
             }, undefined),
             "2. Command Palette ‣ Monokai Pro: select theme"
         ]
@@ -27213,7 +27213,7 @@ const benjamindean325LandingPageData = {
         lineNumber: 47,
         columnNumber: 17
     }, undefined),
-    spanText19: "You can freely evaluate Subtext Pro for VS CODE.To remove the popups, a license of ",
+    spanText19: "You can freely evaluate Subtext Pro for VS Code.To remove the popups, a license of ",
     spanText20: "€12.50",
     spanText21: " is required",
     spanText22: "Buy license",
@@ -27221,12 +27221,12 @@ const benjamindean325LandingPageData = {
     group2: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-2@2x.png",
     group33: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-33-1@2x.png",
     spanText23: "Filters:",
-    spanText24: "Pro",
-    spanText25: "Octagon",
-    spanText26: "Ristretto",
-    spanText27: "Spectrum",
-    spanText28: "Machine",
-    spanText29: "Classic",
+    spanText24: "Paris",
+    spanText25: "New York",
+    spanText26: "Berlin",
+    spanText27: "Zurich",
+    spanText28: "San Francisco",
+    spanText29: "Santa Barbara",
     group27: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/9b99d5f7041aef55-1-1@2x.png",
     be65307B6F17Cb231: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/be65307b6f17cb23-1-1@2x.png",
     group9Props: group92Data
