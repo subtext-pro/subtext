@@ -30900,16 +30900,9 @@ function Benjamindean325LandingPage(props) {
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                                                         className: "frame-7",
-                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                                                            className: "buy-license ibmplexmono-semi-bold-white-18px",
-                                                            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                                                                className: "ibmplexmono-semi-bold-white-18px",
-                                                                children: spanText22
-                                                            }, void 0, false, {
-                                                                fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 167,
-                                                                columnNumber: 23
-                                                            }, this)
+                                                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                                                            className: "ibmplexmono-semi-bold-white-18px",
+                                                            children: spanText22
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
                                                             lineNumber: 166,
@@ -30940,7 +30933,7 @@ function Benjamindean325LandingPage(props) {
                                                                     alt: "Vector"
                                                                 }, void 0, false, {
                                                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                    lineNumber: 174,
+                                                                    lineNumber: 172,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -30949,7 +30942,7 @@ function Benjamindean325LandingPage(props) {
                                                                     alt: "be65307b6f17cb23 2"
                                                                 }, void 0, false, {
                                                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                    lineNumber: 179,
+                                                                    lineNumber: 177,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -30958,18 +30951,18 @@ function Benjamindean325LandingPage(props) {
                                                                     alt: "Group"
                                                                 }, void 0, false, {
                                                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                    lineNumber: 180,
+                                                                    lineNumber: 178,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 173,
+                                                            lineNumber: 171,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                        lineNumber: 172,
+                                                        lineNumber: 170,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -30978,13 +30971,13 @@ function Benjamindean325LandingPage(props) {
                                                         alt: "Group 33"
                                                     }, void 0, false, {
                                                         fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                        lineNumber: 183,
+                                                        lineNumber: 181,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                lineNumber: 171,
+                                                lineNumber: 169,
                                                 columnNumber: 17
                                             }, this)
                                         ]
@@ -31002,7 +30995,7 @@ function Benjamindean325LandingPage(props) {
                                                     className: "rectangle-4"
                                                 }, void 0, false, {
                                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                    lineNumber: 188,
+                                                    lineNumber: 186,
                                                     columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31015,12 +31008,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText23
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 191,
+                                                                lineNumber: 189,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 190,
+                                                            lineNumber: 188,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31030,12 +31023,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText24
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 194,
+                                                                lineNumber: 192,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 193,
+                                                            lineNumber: 191,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31045,12 +31038,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText25
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 197,
+                                                                lineNumber: 195,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 196,
+                                                            lineNumber: 194,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31060,12 +31053,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText26
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 200,
+                                                                lineNumber: 198,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 199,
+                                                            lineNumber: 197,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31075,12 +31068,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText27
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 203,
+                                                                lineNumber: 201,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 202,
+                                                            lineNumber: 200,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31090,12 +31083,12 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText28
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 206,
+                                                                lineNumber: 204,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 205,
+                                                            lineNumber: 203,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -31105,29 +31098,29 @@ function Benjamindean325LandingPage(props) {
                                                                 children: spanText29
                                                             }, void 0, false, {
                                                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                                lineNumber: 209,
+                                                                lineNumber: 207,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                            lineNumber: 208,
+                                                            lineNumber: 206,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                                    lineNumber: 189,
+                                                    lineNumber: 187,
                                                     columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                            lineNumber: 187,
+                                            lineNumber: 185,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                        lineNumber: 186,
+                                        lineNumber: 184,
                                         columnNumber: 15
                                     }, this)
                                 ]
@@ -31147,12 +31140,12 @@ function Benjamindean325LandingPage(props) {
                                     alt: "be65307b6f17cb23 1"
                                 }, void 0, false, {
                                     fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                    lineNumber: 216,
+                                    lineNumber: 214,
                                     columnNumber: 15
                                 }, this)
                             }, void 0, false, {
                                 fileName: "components/Benjamindean325LandingPage/index.jsx",
-                                lineNumber: 215,
+                                lineNumber: 213,
                                 columnNumber: 13
                             }, this)
                         ]
