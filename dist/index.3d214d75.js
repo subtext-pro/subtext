@@ -27138,41 +27138,26 @@ const benjamindean325LandingPageData = {
     spanText2: "Maximize Pogramming Productivity With Fonts Designed By Top Artists",
     group1000006057: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/line-3-1@2x.png",
     frame: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/frame-1@2x.png",
-    spanText3: "About ProTech",
-    spanText4: "We create amazing content for developers, by developers. You have likely read ",
-    spanText5: "some of our articles",
-    spanText6: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
+    spanText3: "About Subtext",
+    spanText4: "Enjoy beautiful fonts and colors to help you program better in Visual Studio Code ",
+    spanText5: "",
+    spanText7: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
         children: [
-            " before. We rank on the first page of Google for thousands of search queries.",
+            "Beautiful ",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
                 lineNumber: 31,
-                columnNumber: 109
-            }, undefined),
-            "Your software startup has a great product but you want more decision-makers in tech to know about it."
+                columnNumber: 42
+            }, undefined)
         ]
     }, void 0, true, {
         fileName: "App.jsx",
         lineNumber: 31,
         columnNumber: 16
     }, undefined),
-    spanText7: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
-        children: [
-            "Beautiful ",
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                fileName: "App.jsx",
-                lineNumber: 32,
-                columnNumber: 42
-            }, undefined)
-        ]
-    }, void 0, true, {
-        fileName: "App.jsx",
-        lineNumber: 32,
-        columnNumber: 16
-    }, undefined),
     spanText8: "and functional colors",
-    spanText9: "The original Subtext colors had been created in 2020 by creative director & developer Hans Zimmer. Soon after, the code editor Sublime Text adopted Monokai as its default color scheme. Monokai is internationally used for syntax highlighting in almost every editor",
-    spanText10: "The pro version, created by the same author, is a modern interpretation of the classic color palette. The updated colors are carefully calibrated to be both functional and aesthetically pleasing.",
+    spanText9: "The original Subtext colors had been created in 2020 by creative director & developer Ben Dean.",
+    spanText10: "The pro version is a modern interpretation of the classic color palette. The updated colors are carefully calibrated to be both functional and aesthetically pleasing.",
     group1: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-1@2x.png",
     spanText11: "Color filters",
     spanText12: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
@@ -27180,14 +27165,14 @@ const benjamindean325LandingPageData = {
             "Subtext Pro comes with a set of color filters ",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 38,
+                lineNumber: 37,
                 columnNumber: 79
             }, undefined),
             "to suit your mood. Whether you want to code like a robot or feel like controlling a spaceship, there's a matching color filter for you."
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 38,
+        lineNumber: 37,
         columnNumber: 17
     }, undefined),
     line3: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/line-3-2@2x.png",
@@ -27203,14 +27188,14 @@ const benjamindean325LandingPageData = {
             "1. Package Control ‣ Install Package ‣ Theme -Subtext Pro",
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                 fileName: "App.jsx",
-                lineNumber: 47,
+                lineNumber: 46,
                 columnNumber: 90
             }, undefined),
             "2. Command Palette ‣ Monokai Pro: select theme"
         ]
     }, void 0, true, {
         fileName: "App.jsx",
-        lineNumber: 47,
+        lineNumber: 46,
         columnNumber: 17
     }, undefined),
     spanText19: "You can freely evaluate Subtext Pro for VS Code.To remove the popups, a license of ",
