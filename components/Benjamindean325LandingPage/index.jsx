@@ -163,9 +163,7 @@ function Benjamindean325LandingPage(props) {
                     </p>
                   </div>
                   <div className="frame-7">
-                    <div className="buy-license ibmplexmono-semi-bold-white-18px">
-                      <span className="ibmplexmono-semi-bold-white-18px">{spanText22}</span>
-                    </div>
+                    <span className="ibmplexmono-semi-bold-white-18px">{spanText22}</span>
                   </div>
                 </div>
                 <div className="overlap-group1">
