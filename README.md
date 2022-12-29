@@ -1,7 +1,4 @@
 [![Image from Gyazo](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png)](https://gyazo.com/3f6879b1ae585392c12e9c8b599a18e9)
-
-<img src="[Assets/icon.png](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png)" width="200">
-
  
 
 ## Visual Studio Code
