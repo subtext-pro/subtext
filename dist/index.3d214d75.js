@@ -27196,7 +27196,7 @@ const benjamindean325LandingPageData = {
     spanText14: "Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
     spanText15: "Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.",
     pixelparrotclearbg12: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/pixelparrotclearbg-1-2@2x.png",
-    spanText16: "\xa9 2022 YourCompany. ALL RIGHTS RESERVED",
+    spanText16: "\xa9 2022 Subtext Pro. ALL RIGHTS RESERVED",
     spanText17: "How to install free evaluation for VS Code:",
     spanText18: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactDefault.default).Fragment, {
         children: [
@@ -27213,7 +27213,7 @@ const benjamindean325LandingPageData = {
         lineNumber: 47,
         columnNumber: 17
     }, undefined),
-    spanText19: "You can freely evaluate Monokai Pro for Sublime Text.To remove the popups, a license of ",
+    spanText19: "You can freely evaluate Subtext Pro for VS CODE.To remove the popups, a license of ",
     spanText20: "€12.50",
     spanText21: " is required",
     spanText22: "Buy license",
