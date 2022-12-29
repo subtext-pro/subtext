@@ -27171,7 +27171,7 @@ const benjamindean325LandingPageData = {
         columnNumber: 16
     }, undefined),
     spanText8: "and functional colors",
-    spanText9: "The original Monokai colors had been created in 2006 by creative director & developer Wimer Hazenberg. Soon after, the code editor Sublime Text adopted Monokai as its default color scheme. Monokai is internationally used for syntax highlighting in almost every editor",
+    spanText9: "The original Subtext colors had been created in 2006 by creative director & developer Wimer Hazenberg. Soon after, the code editor Sublime Text adopted Monokai as its default color scheme. Monokai is internationally used for syntax highlighting in almost every editor",
     spanText10: "The pro version, created by the same author, is a modern interpretation of the classic color palette. The updated colors are carefully calibrated to be both functional and aesthetically pleasing.",
     group1: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-1@2x.png",
     spanText11: "Color filters",
