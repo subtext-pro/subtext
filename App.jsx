@@ -31,7 +31,7 @@ const benjamindean325LandingPageData = {
     spanText6: <React.Fragment> before. We rank on the first page of Google for thousands of search queries.<br />Your software startup has a great product but you want more decision-makers in tech to know about it.</React.Fragment>,
     spanText7: <React.Fragment>Beautiful <br /></React.Fragment>,
     spanText8: "and functional colors",
-    spanText9: "The original Subtext colors had been created in 2020 by creative director & developer Ben Dean.
+    spanText9: "The original Subtext colors had been created in 2020 by creative director & developer Ben Dean.,
     spanText10: "The pro version is a modern interpretation of the classic color palette. The updated colors are carefully calibrated to be both functional and aesthetically pleasing.",
     group1: "https://anima-uploads.s3.amazonaws.com/projects/63ad04bf271484f4b798c6ce/releases/63ad04da0c5699f0e3a06976/img/group-1@2x.png",
     spanText11: "Color filters",
