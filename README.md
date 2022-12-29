@@ -1,4 +1,4 @@
-[![Image from Gyazo](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png)](https://gyazo.com/3f6879b1ae585392c12e9c8b599a18e9)
+[![Image from Gyazo](https://i.gyazo.com/3f6879b1ae585392c12e9c8b599a18e9.png =50x50)](https://gyazo.com/3f6879b1ae585392c12e9c8b599a18e9)
 
 ## Visual Studio Code
 
